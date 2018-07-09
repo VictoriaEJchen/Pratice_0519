@@ -1,6 +1,6 @@
 ﻿  MY birth.cpp
-c:\users\victoria\documents\github\pratice\my birth\my birth\my birth.cpp(28): warning C4473: 'scanf_s' : not enough arguments passed for format string
-  c:\users\victoria\documents\github\pratice\my birth\my birth\my birth.cpp(28): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
-  c:\users\victoria\documents\github\pratice\my birth\my birth\my birth.cpp(28): note: the missing variadic argument 2 is required by format string '%c'
-  c:\users\victoria\documents\github\pratice\my birth\my birth\my birth.cpp(28): note: this argument is used as a buffer size
+c:\users\victoria\documents\github\pratice\my birth\my birth\my birth.cpp(29): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\victoria\documents\github\pratice\my birth\my birth\my birth.cpp(29): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\victoria\documents\github\pratice\my birth\my birth\my birth.cpp(29): note: the missing variadic argument 2 is required by format string '%c'
+  c:\users\victoria\documents\github\pratice\my birth\my birth\my birth.cpp(29): note: this argument is used as a buffer size
   MY birth.vcxproj -> C:\Users\Victoria\Documents\GitHub\pratice\MY birth\Debug\MY birth.exe
